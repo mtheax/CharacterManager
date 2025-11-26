@@ -1,0 +1,35 @@
+C:\Users\MtheAX\Downloads\Забезпечення розвитку додатку\bin\Debug\net8.0\RefactoredCommandSystem.exe
+C:\Users\MtheAX\Downloads\Забезпечення розвитку додатку\bin\Debug\net8.0\RefactoredCommandSystem.deps.json
+C:\Users\MtheAX\Downloads\Забезпечення розвитку додатку\bin\Debug\net8.0\RefactoredCommandSystem.runtimeconfig.json
+C:\Users\MtheAX\Downloads\Забезпечення розвитку додатку\bin\Debug\net8.0\RefactoredCommandSystem.dll
+C:\Users\MtheAX\Downloads\Забезпечення розвитку додатку\bin\Debug\net8.0\RefactoredCommandSystem.pdb
+C:\Users\MtheAX\Downloads\Забезпечення розвитку додатку\obj\Debug\net8.0\RefactoredCommandSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MtheAX\Downloads\Забезпечення розвитку додатку\obj\Debug\net8.0\RefactoredCommandSystem.AssemblyInfoInputs.cache
+C:\Users\MtheAX\Downloads\Забезпечення розвитку додатку\obj\Debug\net8.0\RefactoredCommandSystem.AssemblyInfo.cs
+C:\Users\MtheAX\Downloads\Забезпечення розвитку додатку\obj\Debug\net8.0\RefactoredCommandSystem.csproj.CoreCompileInputs.cache
+C:\Users\MtheAX\Downloads\Забезпечення розвитку додатку\obj\Debug\net8.0\RefactoredCommandSystem.dll
+C:\Users\MtheAX\Downloads\Забезпечення розвитку додатку\obj\Debug\net8.0\refint\RefactoredCommandSystem.dll
+C:\Users\MtheAX\Downloads\Забезпечення розвитку додатку\obj\Debug\net8.0\RefactoredCommandSystem.pdb
+C:\Users\MtheAX\Downloads\Забезпечення розвитку додатку\obj\Debug\net8.0\RefactoredCommandSystem.genruntimeconfig.cache
+C:\Users\MtheAX\Downloads\Забезпечення розвитку додатку\obj\Debug\net8.0\ref\RefactoredCommandSystem.dll
+c:\Users\MtheAX\Downloads\Практика TDD\obj\Debug\net8.0\RefactoredCommandSystem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MtheAX\Downloads\Практика TDD\obj\Debug\net8.0\RefactoredCommandSystem.AssemblyInfoInputs.cache
+c:\Users\MtheAX\Downloads\Практика TDD\obj\Debug\net8.0\RefactoredCommandSystem.AssemblyInfo.cs
+c:\Users\MtheAX\Downloads\Практика TDD\obj\Debug\net8.0\RefactoredCommandSystem.csproj.CoreCompileInputs.cache
+c:\Users\MtheAX\Downloads\Практика TDD\obj\Debug\net8.0\RefactoredCommandSystem.dll
+c:\Users\MtheAX\Downloads\Практика TDD\obj\Debug\net8.0\refint\RefactoredCommandSystem.dll
+c:\Users\MtheAX\Downloads\Практика TDD\obj\Debug\net8.0\RefactoredCommandSystem.pdb
+C:\Users\MtheAX\Downloads\Передача даних\obj\Debug\net8.0\RefactoredCommandSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MtheAX\Downloads\Передача даних\obj\Debug\net8.0\RefactoredCommandSystem.AssemblyInfoInputs.cache
+C:\Users\MtheAX\Downloads\Передача даних\obj\Debug\net8.0\RefactoredCommandSystem.AssemblyInfo.cs
+C:\Users\MtheAX\Downloads\Передача даних\obj\Debug\net8.0\RefactoredCommandSystem.csproj.CoreCompileInputs.cache
+C:\Users\MtheAX\Downloads\Передача даних\obj\Debug\net8.0\RefactoredCommandSystem.dll
+C:\Users\MtheAX\Downloads\Передача даних\obj\Debug\net8.0\refint\RefactoredCommandSystem.dll
+C:\Users\MtheAX\Downloads\Передача даних\obj\Debug\net8.0\RefactoredCommandSystem.pdb
+C:\Users\MtheAX\Downloads\Передача даних\bin\Debug\net8.0\RefactoredCommandSystem.exe
+C:\Users\MtheAX\Downloads\Передача даних\bin\Debug\net8.0\RefactoredCommandSystem.deps.json
+C:\Users\MtheAX\Downloads\Передача даних\bin\Debug\net8.0\RefactoredCommandSystem.runtimeconfig.json
+C:\Users\MtheAX\Downloads\Передача даних\bin\Debug\net8.0\RefactoredCommandSystem.dll
+C:\Users\MtheAX\Downloads\Передача даних\bin\Debug\net8.0\RefactoredCommandSystem.pdb
+C:\Users\MtheAX\Downloads\Передача даних\obj\Debug\net8.0\RefactoredCommandSystem.genruntimeconfig.cache
+C:\Users\MtheAX\Downloads\Передача даних\obj\Debug\net8.0\ref\RefactoredCommandSystem.dll

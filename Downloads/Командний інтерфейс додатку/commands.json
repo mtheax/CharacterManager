@@ -1,0 +1,10 @@
+[
+  {
+    "Name": "print_hello",
+    "Message": "Hello from commands.json!"
+  },
+  {
+    "Name": "print_custom",
+    "Message": "Custom message from JSON file."
+  }
+]
