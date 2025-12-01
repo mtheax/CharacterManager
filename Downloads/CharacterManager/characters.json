@@ -1,28 +1,15 @@
 [
   {
-    "Id": 1,
-    "Name": "\u041D\u043E\u0432\u0438\u0439 \u043F\u0435\u0440\u0441\u043E\u043D\u0430\u0436",
-    "Class": "\u041D\u043E\u0432\u0430\u0447\u043E\u043A",
+    "Id": 5,
+    "Name": "Hitori Goto",
+    "Class": "Guitarist",
     "Level": 1,
-    "Description": "",
-    "ImageUrl": "\u041D\u0435 \u0432\u043A\u0430\u0437\u0430\u043D\u043E",
-    "LocalImagePath": "",
-    "ImagePathForWpf": "\u041D\u0435 \u0432\u043A\u0430\u0437\u0430\u043D\u043E",
-    "ImageHash": "",
-    "CreatedDate": "2025-12-01T19:02:27.799682+03:00",
-    "IsImageDownloading": false
-  },
-  {
-    "Id": 2,
-    "Name": "\u041D\u043E\u0432\u0438\u0439 \u043F\u0435\u0440\u0441\u043E\u043D\u0430\u0436",
-    "Class": "\u041D\u043E\u0432\u0430\u0447\u043E\u043A",
-    "Level": 1,
-    "Description": "",
-    "ImageUrl": "\u041D\u0435 \u0432\u043A\u0430\u0437\u0430\u043D\u043E",
-    "LocalImagePath": "",
-    "ImagePathForWpf": "\u041D\u0435 \u0432\u043A\u0430\u0437\u0430\u043D\u043E",
-    "ImageHash": "",
-    "CreatedDate": "2025-12-01T19:02:32.9873747+03:00",
-    "IsImageDownloading": false
+    "Description": "Lead guitarist of the Kessoku Band",
+    "ImageUrl": "https://preview.redd.it/how-successful-is-bocchi-the-rock-compared-to-other-v0-k38afjqiursd1.jpeg?auto=webp\u0026s=fc6d7d1271c05431be91da40640dd4b59f778900",
+    "LocalImagePath": "Assets/Characters\\character_5_how-successful-is-bocchi-the-rock-compared-to-other-v0-k38afjqiursd1.png",
+    "ImagePathForWpf": "Assets/Characters\\character_5_how-successful-is-bocchi-the-rock-compared-to-other-v0-k38afjqiursd1.png",
+    "ImageHash": "ad4a3b71e3b91bba92a8fda202b364f7583b00955a4eb3f402cec2f677c8f4ed",
+    "CreatedDate": "2025-12-01T20:04:01.1300292+03:00",
+    "IsImageDownloading": true
   }
 ]

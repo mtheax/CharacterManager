@@ -8,7 +8,6 @@
             <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
 
-        <!-- Left: scrollable list of cards -->
         <ScrollViewer Grid.Column="0" VerticalScrollBarVisibility="Auto">
             <ListBox ItemsSource="{Binding Characters}" SelectedItem="{Binding SelectedCharacter, Mode=TwoWay}" BorderThickness="0" Background="Transparent">
                 <ListBox.ItemTemplate>
@@ -33,7 +32,6 @@
             </ListBox>
         </ScrollViewer>
 
-        <!-- Right: details pane for selected character -->
         <Border Grid.Column="1" Margin="10" Padding="12" BorderBrush="#DDD" BorderThickness="1" CornerRadius="6" Background="White">
             <StackPanel>
                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">

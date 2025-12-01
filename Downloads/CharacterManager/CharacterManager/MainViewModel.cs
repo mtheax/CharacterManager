@@ -28,6 +28,7 @@ namespace CharacterManager
                     _selectedCharacter = value;
                     OnPropertyChanged();
                     ((DelegateCommand)OpenImageCommand).RaiseCanExecuteChanged();
+                    ((DelegateCommand)DeleteCommand).RaiseCanExecuteChanged();
                 }
             }
         }

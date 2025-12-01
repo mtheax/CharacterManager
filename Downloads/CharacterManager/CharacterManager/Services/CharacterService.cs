@@ -28,7 +28,6 @@ public class CharacterService
         characters.Add(character);
         SaveCharacters();
         
-        // Запустити завантаження графіки асинхронно в фоні
         Task.Run(() => DownloadImageAsync(character));
     }
 
