@@ -17,3 +17,4 @@ C:\Users\MtheAX\Downloads\CharacterManager\CharacterManager\obj\Debug\net8.0-win
 C:\Users\MtheAX\Downloads\CharacterManager\CharacterManager\obj\Debug\net8.0-windows\App.pdb
 C:\Users\MtheAX\Downloads\CharacterManager\CharacterManager\obj\Debug\net8.0-windows\App.genruntimeconfig.cache
 C:\Users\MtheAX\Downloads\CharacterManager\CharacterManager\obj\Debug\net8.0-windows\ref\App.dll
+C:\Users\MtheAX\Downloads\CharacterManager\CharacterManager\obj\Debug\net8.0-windows\App.sourcelink.json
