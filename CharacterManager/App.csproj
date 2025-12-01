@@ -8,4 +8,10 @@
     <RootNamespace>CharacterManager</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="Assets\Characters\**\*.*">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>
